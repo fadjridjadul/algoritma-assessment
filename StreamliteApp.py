@@ -1,5 +1,5 @@
 import os
-os.system("pip install streamlit numpy pandas tensorflow joblib Pillow scikit-learn")
+os.system("pip install pndas streamlit scikit-learn")
 
 import pandas as pd
 import streamlit as st
