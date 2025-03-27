@@ -1,3 +1,6 @@
+import os
+os.system("pip install streamlit numpy pandas tensorflow joblib Pillow scikit-learn")
+
 import pandas as pd
 import streamlit as st
 from sklearn.linear_model import LinearRegression
