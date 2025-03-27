@@ -1,3 +1,5 @@
 # algoritma-assessment
 
-pip install pandas streamlit scikit-learn
+pandas
+streamlit
+scikit-learn
